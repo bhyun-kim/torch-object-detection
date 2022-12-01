@@ -1,0 +1,5 @@
+# pytorch 
+opencv-python
+matplotlib
+juptyer notebook
+xmltodict
